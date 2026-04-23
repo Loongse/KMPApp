@@ -1,4 +1,4 @@
-﻿package com\loongse\kmpapp
+package com.loongse.kmpapp
 
 @JsExport
 fun main() {

@@ -1,4 +1,4 @@
-﻿package com\loongse\kmpapp
+package com.loongse.kmpapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
